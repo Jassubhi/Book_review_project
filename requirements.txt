@@ -1,0 +1,7 @@
+requests
+gmail
+wtforms
+Flask
+Flask-Session
+psycopg2-binary
+SQLAlchemy
