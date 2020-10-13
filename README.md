@@ -27,4 +27,7 @@ python -m flask run
  * Debugger is active!
  * Debugger PIN: 109-481-133
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-
+ 
+ 
+ 
+![Alt text](C:\Users\Jasmeet Kaur Ubhi\Documents\login.png?raw=true "Title")
