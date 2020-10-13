@@ -14,7 +14,7 @@ Static folder contains logo and css stylesheet needed for this website.
 
 To run the app:
 
-set FLASK_APP = application.py
+set FLASK_APP=application.py
 
 set FLASK_ENV=development
 
